@@ -1,0 +1,21 @@
+HW2 Q1
+
+Results when packed by UPX: 6
+SecureAge APEX
+Cylance
+F-Secure
+Cybereason
+Endgame
+Trapmine
+
+Results when unpacked by UPX: 1
+Only Sangfor Engine Zero detected
+
+Origal detections: 5
+BitDefenderTheta
+Cyren
+Trapmine
+CrowdStrike Falcon
+F-Prot
+
+UPX packing then unpacking can obfuscate some of the detection from these scanners
